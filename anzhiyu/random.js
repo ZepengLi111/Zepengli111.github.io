@@ -1,1 +1,1 @@
-var posts=["2023/10/31/PCA压缩图像/","2023/10/29/hello-world/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/10/31/PCA图像压缩/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
