@@ -1,1 +1,1 @@
-var posts=["2023/10/31/PCA图像压缩/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/11/04/Astar算法题目/","2023/10/31/PCA图像压缩/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
